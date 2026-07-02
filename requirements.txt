@@ -1,0 +1,6 @@
+requests
+pandas
+openpyxl
+playwright
+playwright-stealth
+certifi

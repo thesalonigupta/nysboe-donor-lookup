@@ -1,0 +1,7 @@
+donors.csv
+fec_results_summary.csv
+nysboe_results/
+nysboe_results_summary.csv
+.env
+__pycache__/
+*.pyc
